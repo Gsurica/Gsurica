@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gsurica
+<h1>👋 Hi, I’m @Gsurica</h1>
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on . . .
