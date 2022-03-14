@@ -1,4 +1,4 @@
-[(https://img.shields.io/badge/Linkedin-Gsurica-%23ade8f4)]
+[(?https://img.shields.io/badge/Linkedin-Gsurica-%23ade8f4)]
 
 <h1>👋 Hi, I’m @Gsurica</h1>
 
