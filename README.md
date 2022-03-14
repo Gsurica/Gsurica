@@ -10,6 +10,7 @@
     </div>    
     
     <div>
-        <p> I'm an aspiring front end dev, thinking about just improving my programming skills and getting to improve my own self. I intend to get a vacancy in this area             for a few years, to be more exact, I intend to follow this for my whole life. </P>
+        <p> I'm an aspiring front end dev, thinking about just improving my programming skills and getting to improve my own self. I intend to get a vacancy in this area             for a few years, to be more exact, I intend to follow this for my whole life.
+        </p>
     </div>
 </header>
