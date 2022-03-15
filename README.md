@@ -15,3 +15,7 @@
     <p>
         Talking more about my personal life, I'm a Magic player, pokemon tcg and lol, cs go sometimes, so I'm addicted to javascript logic games, always participating in         the challenges proposed by Codewars, front-end mentor and css -Battle, keeping a routine of challenges always on weekends. Still, after all, I'm a DnD fan,               playing whenever possible, well, #<img src="https://img.shields.io/badge/-MageForever-%23480ca8"> 
     </p>
+    <div>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gsurica&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gsurica&layout=compact&langs_count=16&theme=dracula"/>
+    </div>
