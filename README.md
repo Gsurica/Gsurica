@@ -17,6 +17,6 @@
     </p>
             <hr>
     <div align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gsurica&show_icons=true&theme=prussian&include_all_commits=truecount_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gsurica&layout=compact&langs_count=16&theme=prussian"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gsurica&show_icons=true&theme=graywhiteinclude_all_commits=truecount_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gsurica&layout=compact&langs_count=16&theme=graywhite"/>
     </div>
