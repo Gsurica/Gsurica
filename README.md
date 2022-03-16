@@ -26,3 +26,5 @@
         <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Gsurica&show_icons=true&theme=graywhite&include_all_commits=truecount_private=true"/>
         <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gsurica&layout=compact&langs_count=16&theme=graywhite"/>
     </div>
+            <hr>
+    
